@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "425638342489",
+    "firebase_url": "https://qrcodereader-3348b.firebaseio.com",
+    "project_id": "qrcodereader-3348b",
+    "storage_bucket": "qrcodereader-3348b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425638342489:android:c70f6c72d7e41d8e",
+        "android_client_info": {
+          "package_name": "com.mira.qrcodereader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZEvRejcyoLZTpL3zFnybgAZInueQZ9m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425638342489-7o4lma6upe3p206r7akf8vqq0nf6akui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
